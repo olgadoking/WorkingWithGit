@@ -1,0 +1,6 @@
+{
+  "Name": "HelloGit",
+  "ProjectType": "Process",
+  "Description": "Sample process to practice GIT",
+  "MainFile": "Main.xaml"
+}
